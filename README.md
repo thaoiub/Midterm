@@ -13,3 +13,5 @@ Time limit: One hour, full class is available.
 
 What does WIMP stand for?
 c) Windows, icon, menu, pointer 
+
+hello?
