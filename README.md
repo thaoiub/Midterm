@@ -11,4 +11,5 @@ Bonus Questions - ?
 November 5th, 2018
 Time limit: One hour, full class is available.
 
-
+What does WIMP stand for?
+c) Windows, icon, menu, pointer 
